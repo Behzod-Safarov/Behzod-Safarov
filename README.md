@@ -18,8 +18,9 @@ I'm a passionate software engineer with a strong focus on robotics, backend deve
   - Open-source ventures that bring innovative tech solutions to life
 
 - 📫 **How to reach me:**  
-  - You can connect with me on [GitHub](https://github.com/Behzod-Safarov)  
-  - Or drop me an email at [behzodsafary@gmail.com](mailto:behzodsafary@gmail.com)
+  - Connect with me on [GitHub](https://github.com/Behzod-Safarov)  
+  - Drop me an email at [behzodsafary@gmail.com](mailto:behzodsafary@gmail.com)  
+  - Reach out on Telegram: [@BEHZOD_SAFAROV](https://t.me/BEHZOD_SAFAROV)
 
 - 😄 **Pronouns:**  
   - He/Him
