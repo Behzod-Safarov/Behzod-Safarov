@@ -36,7 +36,6 @@ DevOps pipelines using Docker, NGINX reverse proxy, GitHub Actions
 
 Telegram bots, WPF applications, and production-ready web systems
 
-Building Uzbekistan’s next big deals platform: Aksiyona
 
 🤝 Looking to Collaborate On
 
