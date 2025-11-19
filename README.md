@@ -1,29 +1,65 @@
-# Hi there, I'm Behzod-Safarov 👋
+Hi there, I'm Behzod Safarov 👋
 
-I'm a passionate software engineer with a strong focus on robotics, backend development, and algorithm research. I enjoy exploring the intersection of hardware and software to create intelligent, efficient systems.
+I'm a Full Stack & Embedded Systems Engineer passionate about building intelligent systems—from cloud-native backend services to real-world robotics and drone applications. I love working at the intersection of software, hardware, AI, and scalable architecture.
 
-- 👀 **I’m interested in:**  
-  - Developing innovative software for robotics devices and scalable backend systems  
-  - Conducting research in advanced algorithms  
-  - Building intelligent systems that blend creativity, robust backend architecture, and cutting-edge technology
+👀 Interests & Focus Areas
 
-- 🌱 **I’m currently learning:**  
-  - Advanced robotics frameworks and real-time systems  
-  - Optimization techniques for algorithm efficiency  
-  - The latest in .NET development, backend architecture, and server-side technologies
+Embedded systems, robotics, and intelligent autonomous devices
 
-- 💞️ **I’m looking to collaborate on:**  
-  - Projects that combine robotics, AI, backend development, and software engineering  
-  - Research initiatives that push the boundaries of algorithmic design and system scalability  
-  - Open-source ventures that bring innovative tech solutions to life
+Advanced backend engineering with .NET, C#, and scalable architecture
 
-- 📫 **How to reach me:**  
-  - Connect with me on [GitHub](https://github.com/Behzod-Safarov)  
-  - Drop me an email at [behzodsafary@gmail.com](mailto:behzodsafary@gmail.com)  
-  - Reach out on Telegram: [@BEHZOD_SAFAROV](https://t.me/BEHZOD_SAFAROV)
+AI for drones, optimization algorithms, and real-time systems
 
-- 😄 **Pronouns:**  
-  - He/Him
+DevOps, Docker-based deployment, CI/CD, and cloud infrastructure
 
-- ⚡ **Fun fact:**  
-  - When I'm not coding or researching, I'm either solving puzzles, exploring nature, or diving into the latest tech trends in space exploration!
+Startup product development (currently building Aksiyona)
+
+🌱 Currently Learning & Researching
+
+Robotics frameworks, real-time control systems, and sensor fusion
+
+AI fundamentals for drone autonomy and computer vision
+
+High-performance .NET internals: GC, threading, runtime optimization
+
+Modern frontend architecture with Angular + NgRx
+
+Best practices in state management, distributed systems, and backend scalability
+
+💼 What I Work On
+
+Embedded systems projects, including port-based robotics libraries and Bluetooth-controlled robots
+
+Full-stack web apps (Angular, .NET, PostgreSQL)
+
+DevOps pipelines using Docker, NGINX reverse proxy, GitHub Actions
+
+Telegram bots, WPF applications, and production-ready web systems
+
+Building Uzbekistan’s next big deals platform: Aksiyona
+
+🤝 Looking to Collaborate On
+
+Robotics and embedded AI projects
+
+High-performance backend systems and scalable cloud solutions
+
+Open-source tooling for .NET, IoT, drones, and educational robotics
+
+Research involving algorithms, optimization, and intelligent automation
+
+📫 Reach Me
+
+GitHub: @Behzod-Safarov
+
+Email: behzodsafary@gmail.com
+
+Telegram: @BEHZOD_SAFAROV
+
+😄 Pronouns
+
+He/Him
+
+⚡ Fun Fact
+
+When I’m not coding, I’m usually experimenting with robots, learning new tech, exploring nature, or diving into drone AI research.
